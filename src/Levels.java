@@ -1,0 +1,3 @@
+public enum Levels {
+    LEVEL_10x10, LEVEL_13x13, LEVEL_15x15, LEVEL_11x11, LEVEL_14x14
+}
